@@ -68,4 +68,3 @@ for(var i=0;i<odd.length;i++){
     even[i].style.backgroundColor='#ccc';
 }
 
-console.log(push);
