@@ -128,4 +128,5 @@ var itemList=document.querySelector('#items');
 // add text to Div
 // newDiv.appendChild(newDivText);
 
+
 // console.log(newDiv);

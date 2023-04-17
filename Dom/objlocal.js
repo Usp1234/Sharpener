@@ -9,4 +9,5 @@ const myCountryInfo = {
   localStorage.setItem('myCountryInfo', JSON.stringify(myCountryInfo))
   
   // retrieving localStorage data in HTML
+  
   document.getElementById("content").innerHTML = localStorage.getItem("myCountryInfo");
